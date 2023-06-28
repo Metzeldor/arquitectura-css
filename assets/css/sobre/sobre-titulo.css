@@ -2,5 +2,17 @@
     color: #DA2B1F;
     font-family: Pacifico, cursive;
     font-weight: 400;
-    font-size: 3.1875rem;
+    
+}
+
+@media screen and (min-width: 0){
+    .sobre__titulo{
+        font-size: 2rem;
+    }
+}
+
+@media screen and (min-width: 768px){
+    .sobre__titulo{
+        font-size: 3.1875rem;
+    }
 }
