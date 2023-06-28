@@ -6,3 +6,4 @@ Fuentes y recursos:
 
 https://en.bem.info/methodology/
 https://bradfrost.com/blog/post/atomic-web-design/
+https://developer.mozilla.org/es/docs/Web/CSS/flex-wrap
